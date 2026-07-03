@@ -11,15 +11,10 @@
 | HW1 | `IDS_HW1_061_THADARSOE.ipynb` | 과제 1 |
 | HW2 | `IDS_HW2_202355532_따다소.ipynb` | 과제 2 |
 
-## 실행 환경
-
-- Python 3.x
-- Jupyter Notebook / JupyterLab
-
 ## 실행 방법
 
-```bash
-git clone https://github.com/본인아이디/IDS_HW.git
-cd IDS_HW
+\`\`\`bash
+git clone https://github.com/everyx2thing/IntroductionToDataScience_Assignment.git
+cd IntroductionToDataScience_Assignment
 jupyter notebook
-```
+\`\`\`
