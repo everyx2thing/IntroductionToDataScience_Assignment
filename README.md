@@ -6,8 +6,8 @@
 
 | 과제 | 파일명 | 설명 |
 |---|---|---|
-| HW1 | `IDS_HW1_061_THADARSOE.ipynb` | 과제 1 |
-| HW2 | `IDS_HW2_202355532_따다소.ipynb` | 과제 2 |
+| HW1 | `IDS_HW1.ipynb` | 과제 1 |
+| HW2 | `IDS_HW2.ipynb` | 과제 2 |
 
 ### 실행 방법
 
@@ -25,8 +25,8 @@ Repository for assignments from the Introduction to Data Science course at Pusan
 
 | Assignment | Filename | Description |
 |---|---|---|
-| HW1 | `IDS_HW1_061_THADARSOE.ipynb` | Assignment 1 |
-| HW2 | `IDS_HW2_202355532_따다소.ipynb` | Assignment 2 |
+| HW1 | `IDS_HW1.ipynb` | Assignment 1 |
+| HW2 | `IDS_HW2.ipynb` | Assignment 2 |
 
 
 ### How to Run
