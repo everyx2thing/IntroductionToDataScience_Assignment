@@ -12,8 +12,8 @@
 ### 실행 방법
 
 ```bash
-git clone https://github.com/everyx2thing/IntroductionToDataScience_Assignment.git
-cd IntroductionToDataScience_Assignment
+git clone https://github.com/everyx2thing/introduction-to-datascience-assignment.git
+cd introduction-to-datascience-assignment
 jupyter notebook
 ```
 
@@ -32,7 +32,7 @@ Repository for assignments from the Introduction to Data Science course at Pusan
 ### How to Run
 
 ```bash
-git clone https://github.com/everyx2thing/IntroductionToDataScience_Assignment.git
-cd IntroductionToDataScience_Assignment
+git clone https://github.com/everyx2thing/introduction-to-datascience-assignment.git
+cd introduction-to-datascience-assignment
 jupyter notebook
 ```
